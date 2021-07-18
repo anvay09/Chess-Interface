@@ -5,7 +5,8 @@
 #include "board.hpp"
 using namespace std;
 class board;
-
+// The pieceLocation class specifies a location on the chessboard given a file and a rank, each values from 1-8
+// It can convert to and from algebraic notation
 class pieceLocation {
 public:
     int file;
@@ -24,6 +25,7 @@ public:
     bool isValidLocation();
 };
 
+// The piece class describes a piece, each piece has a colour, a type and a position
 
 class piece {
 public:
