@@ -8,6 +8,8 @@ using namespace std;
 class piece;
 class pieceLocation;
 
+// The board class initializes a chessboard as a 2D array with pointers to piece objects, given a postion in FEN
+
 class board {
     string piecePlacement;
     string activeColour;
