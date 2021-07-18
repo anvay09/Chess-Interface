@@ -1,3 +1,5 @@
+###used code from https://stackoverflow.com/questions/12341882/how-to-communicate-with-a-chess-engine-in-python
+
 import subprocess, time
 
 engine = subprocess.Popen(
