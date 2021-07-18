@@ -7,11 +7,11 @@ piece.cpp contains defintions for the classes "piece" and "pieceLocation". It al
 stockfishCommunicate.py queries the engine stockfish to calculate centipawn loss and get the N best moves in a position. 
 
 Run the command
-# make
+### make
 to compile and build an executable for the cpp files named
-# myChess 
+### myChess 
 Run it with the command
-# ./myChess
+### ./myChess
 
 Run stockfishCommunicate.py using the command
 #python3 stockfishCommunicate.py
