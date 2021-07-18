@@ -14,7 +14,7 @@ to compile and build an executable for the cpp files named
 `myChess`.
 
 Run it with the command
-`./myChess`
+`./myChess`.
 
 Run stockfishCommunicate.py using the command
 `python3 stockfishCommunicate.py`.
